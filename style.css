@@ -1,0 +1,16 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+header{
+    text-align: center;
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+img{
+    color: gray;
+    padding-top: 20px;
+}
