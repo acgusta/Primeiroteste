@@ -6,11 +6,13 @@
 
 header{
     text-align: center;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     padding-bottom: 20px;
 }
 
 img{
     color: gray;
     padding-top: 20px;
+    height: 30px;
+    margin-left: 7px;
 }
